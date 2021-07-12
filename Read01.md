@@ -15,5 +15,3 @@
 * Images
 * Links
 * Emphasis
-
-
