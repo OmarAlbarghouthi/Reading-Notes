@@ -12,6 +12,6 @@
 
 read | links
 ---|---
-growth | [go to growth](https://omaralbarghouthi.github.io/Reading-Notes/growth)
+growthmindset | [go to growthmindset](https://omaralbarghouthi.github.io/Reading-Notes/growth)
 Read01 | [go to Read01](https://omaralbarghouthi.github.io/Reading-Notes/Read01)
 
