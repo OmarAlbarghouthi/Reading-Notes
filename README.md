@@ -8,10 +8,10 @@
 #### Thank you.
 
 
-## Table of content
+## Table of contents
 
 read | links
 ---|---
-growthmindset | [go to growthmindset](https://omaralbarghouthi.github.io/Reading-Notes/growth)
+growthmindset | [go to growthmindset](https://omaralbarghouthi.github.io/Reading-Notes/growthmindset)
 Read01 | [go to Read01](https://omaralbarghouthi.github.io/Reading-Notes/Read01)
-
+Read02 | [go to Read02](https://omaralbarghouthi.github.io/Reading-Notes/Read02)
