@@ -1,4 +1,5 @@
 # What is Git and why it is used?
+![Git](https://res.cloudinary.com/practicaldev/image/fetch/s--bjpVKHPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8ogqpfkvqqpyfbs3w6p7.png)
 
 #### Git is the most widely used version control system. Git tracks the changes you make to the files, so that you have a record of what's done, and you can go back to certain versions if you need to. Git also facilitates collaboration, allowing multiple-person changes to be combined into a single source.
 #### For example, (when you edit a file, git can help you determine exactly what changed, who changed it, and why. Git isn't the only version control system out there, but it's by far the most popular).
