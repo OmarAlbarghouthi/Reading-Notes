@@ -12,6 +12,9 @@
 
 read | links
 ---|---
-growthmindset | [go to growthmindset](https://omaralbarghouthi.github.io/Reading-Notes/growthmindset)
-Read01 | [go to Read01](https://omaralbarghouthi.github.io/Reading-Notes/Read01)
-Read02 | [go to Read02](https://omaralbarghouthi.github.io/Reading-Notes/Read02)
+growthmindset | [Go to growthmindset](https://omaralbarghouthi.github.io/Reading-Notes/growthmindset)
+Read01 | [Go to Markdown](https://omaralbarghouthi.github.io/Reading-Notes/Read01)
+Read02 | [Go to Git](https://omaralbarghouthi.github.io/Reading-Notes/Read02)
+Read03 | [Go to HTML](https://omaralbarghouthi.github.io/Reading-Notes/Read03)
+Read04 | [Go to JavaScript](https://omaralbarghouthi.github.io/Reading-Notes/Read04)
+Read06 | [Go to CSS](https://omaralbarghouthi.github.io/Reading-Notes/Read06)
