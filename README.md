@@ -18,3 +18,5 @@ Read02 | [Go to Git](https://omaralbarghouthi.github.io/Reading-Notes/Read02)
 Read03 | [Go to HTML](https://omaralbarghouthi.github.io/Reading-Notes/Read03)
 Read04 | [Go to JavaScript](https://omaralbarghouthi.github.io/Reading-Notes/Read04)
 Read06 | [Go to CSS](https://omaralbarghouthi.github.io/Reading-Notes/Read06)
+
+
