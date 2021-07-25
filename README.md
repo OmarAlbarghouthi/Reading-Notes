@@ -22,3 +22,4 @@ Read06 | [Go to CSS](https://omaralbarghouthi.github.io/Reading-Notes/Read06)
 Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/Reading-Notes/Read07)
 
 
+
