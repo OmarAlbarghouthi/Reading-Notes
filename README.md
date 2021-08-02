@@ -25,23 +25,23 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 
 ## Table of contents
 
-read | links
----|---
-class-01 | [HTML & JS](https://omaralbarghouthi.github.io/Reading-Notes/class-01)
-calss-02 | [HTML,CSS,JS](https://omaralbarghouthi.github.io/Reading-Notes/class-02)
-calss-03 | 
-calss-04 | 
-calss-05 | 
-calss-06 | 
-calss-07 | 
-calss-08 |
-calss-09 |
-calss-10 |
-calss-11 |
-calss-12 | 
-calss-13 |
-calss-14 |
-calss-15 |
+| read | links                 |
+|--------|---------------------|
+|class-01 | [HTML & JS](https://omaralbarghouthi.github.io/Reading-Notes/class-01) |
+|calss-02 | [HTML,CSS,JS](https://omaralbarghouthi.github.io/Reading-Notes/class-02)|
+|calss-03 | 
+|calss-04 | 
+|calss-05 | 
+|calss-06 | 
+|calss-07 | 
+|calss-08 |
+|calss-09 |
+|calss-10 |
+|calss-11 |
+|calss-12 | 
+|calss-13 |
+|calss-14 |
+|calss-15 |
 
 
 

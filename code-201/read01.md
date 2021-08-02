@@ -168,16 +168,3 @@ Web developers usually talk about three languages that are used to create web pa
    
    This is w here we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files. 
    
-
-
-
-
-
-
-
-
-
-
-
-
-
