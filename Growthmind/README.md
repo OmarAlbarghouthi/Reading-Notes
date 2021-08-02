@@ -28,7 +28,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 read | links
 ---|---
 class-01 | [HTML & JS](https://omaralbarghouthi.github.io/Reading-Notes/class-01)
-calss-02 | 
+calss-02 | [HTML,CSS,JS](https://omaralbarghouthi.github.io/Reading-Notes/class-02)
 calss-03 | 
 calss-04 | 
 calss-05 | 
