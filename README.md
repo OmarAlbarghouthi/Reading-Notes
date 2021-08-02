@@ -27,9 +27,9 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 
 | read | links                 |
 |--------|---------------------|
-|class-01 | [HTML & JS](https://omaralbarghouthi.github.io/Reading-Notes/class-01) |
-|calss-02 | [HTML,CSS,JS](https://omaralbarghouthi.github.io/Reading-Notes/class-02)|
-|calss-03 | 
+|class-01 | [HTML & JS](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read01) |
+|calss-02 | [HTML,CSS,JS](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read02)|
+|calss-03 | [HTML Lists, CSS Boxes, JS Control Flow](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read03)|
 |calss-04 | 
 |calss-05 | 
 |calss-06 | 
