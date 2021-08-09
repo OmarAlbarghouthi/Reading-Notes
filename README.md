@@ -34,7 +34,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 |calss-05 | [HTML Images, CSS Color & Text](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read05) 
 |calss-06 | [JS Object Literals, The DOM](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read06)
 |calss-07 | [HTML Tables; JS Constructor Functions](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read07)
-|calss-08 |
+|calss-08 | [CSS Layout](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read08)
 |calss-09 |
 |calss-10 |
 |calss-11 |
