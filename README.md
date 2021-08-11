@@ -36,7 +36,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 |calss-07 | [HTML Tables; JS Constructor Functions](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read07)
 |calss-08 | [CSS Layout](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read08)
 |calss-09 | [HTML Forms and JS Events](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read09)
-|calss-10 |
+|calss-10 |[JS Debugging](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read10)
 |calss-11 |
 |calss-12 | 
 |calss-13 |
