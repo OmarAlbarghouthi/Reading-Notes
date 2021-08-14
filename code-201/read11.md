@@ -41,7 +41,7 @@ different sizes, but a lot of sites
 use the same sized image across
 many of their pages. 
 
-___
+_______
 > ### **Alligning images using CSS**
 
 In the last chapter, you saw how
