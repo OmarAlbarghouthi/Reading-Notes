@@ -39,7 +39,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 |calss-10 |[JS Debugging](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read10)
 |calss-11 | [Images & Practical Information](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read11)
 |calss-12 | [Docs for the HTML <**canvas**> Element & Chart.js](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read12)
-|calss-13 |
+|calss-13 |[THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](https://omaralbarghouthi.github.io/Reading-Notes/code-201/read13)
 |calss-14 |
 |calss-15 |
 
