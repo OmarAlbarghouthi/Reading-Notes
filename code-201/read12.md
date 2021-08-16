@@ -1,4 +1,4 @@
-# **Docs for the HTML <canvas> Element & Chart.js**
+# **Docs for the HTML <**canvas**> Element & Chart.js**
 
 
 ## **What is use of canvas?**
