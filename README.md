@@ -52,7 +52,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 | read | links                 |
 |--------|---------------------|
 |class-01 | [Components](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read01)
-|calss-02 | 
+|calss-02 | [React lifecycle](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read02)
 |calss-03 | 
 |calss-04 | 
 |calss-05 | 
