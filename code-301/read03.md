@@ -1,4 +1,4 @@
-# **React Docs - lists and keys**
+# **Passing Functions as Props**
 
 ### **Q1. What does .map() return?**
 
