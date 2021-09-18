@@ -56,7 +56,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 |calss-03 | [Passing Functions as Props](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read03)
 |calss-04 | [React And Forms](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read04)
 |calss-05 | [Think in React](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read05)
-|calss-06 | 
+|calss-06 | [An Introduction to Node.js](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read06)
 |calss-07 | 
 |calss-08 |
 |calss-09 | 
