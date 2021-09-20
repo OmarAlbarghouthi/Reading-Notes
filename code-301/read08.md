@@ -18,17 +18,17 @@ refers to the unambiguous reporting of research resources such as genes, organis
 ### Q4. What are the most common HTTP verbs?
 
 
-- `GET`
-- `POST`
-- `PUT`
-- `PATCH`
-- `DELETE`
+- GET
+- POST
+- PUT
+- PATCH
+- DELETE
 
 ### Q5. What should the URIs be based on?
 
 **URIs** should be based on **nouns**.
 
-6. *Give an example of a good URI*. 
+### Q6. Give an example of a good URI. 
 
 **ex**: https://blog.hubspot.com/website/application-programming-interface-api
 
@@ -44,10 +44,10 @@ There will be a larg number of small resources for the API, which will result in
 
  **404 (Not Found)**.
 
-### Q10. What status code does a successful `POST` request return?
+### Q10. What status code does a successful POST request return?
 
  **HTTP status code 201 (Created)**.
 
-### Q11. What status code does a successful `DELETE` request return?
+### Q11. What status code does a successful DELETE request return?
 
  **HTTP status code 204 (No Content)**.
