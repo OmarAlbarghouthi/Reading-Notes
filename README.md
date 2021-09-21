@@ -59,7 +59,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 |calss-06 | [An Introduction to Node.js](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read06)
 |calss-07 | [Rest](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read07)
 |calss-08 |[APIs](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read08)
-|calss-09 | 
+|calss-09 |[FUNCTIONAL PROGRAMMING](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read09)
 |calss-10 |
 |calss-11 | 
 |calss-12 | 
