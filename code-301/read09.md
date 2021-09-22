@@ -43,7 +43,7 @@ It imports the data from a module, given it's path.
 
 We can do that by using the word require and give it the *path* of the module.
 
-### **Q4. What do we have to do to make a module available? **
+### **Q4. What do we have to do to make a module available?**
 
 We can do that by using module.exports = what ever we want to make available.
 
