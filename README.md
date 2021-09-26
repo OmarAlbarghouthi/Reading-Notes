@@ -62,7 +62,7 @@ Read07 | [Go to Functions and Control flow](https://omaralbarghouthi.github.io/R
 |calss-09 |[FUNCTIONAL PROGRAMMING](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read09)
 |calss-10 |[In Memory Storage](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read10)
 |calss-11 | [Authentication](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read11)
-|calss-12 | 
+|calss-12 | [SQL vs NoSQL](https://omaralbarghouthi.github.io/Reading-Notes/code-301/read12)
 |calss-13 |
 |calss-14 |
 
